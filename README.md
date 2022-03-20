@@ -2,9 +2,10 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 <img src = "https://racitidesigns.files.wordpress.com/2017/11/2.gif?w=1440&h=511&crop=1&zoom=2">
-- 🔭 I’m currently working on **Loan Interest Prediction Application**
 
-- 🌱 I’m currently learning **Full Stack Development, Computer Vision, and Problem Solving**
+<!-- - 🔭 I’m currently working on **Loan Interest Prediction Application** -->
+
+- 🌱 I’m currently learning **Full Stack Development, and Problem Solving**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, C++, DSA**
 
