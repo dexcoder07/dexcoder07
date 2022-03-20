@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satwik Raj</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src = "https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" align="center>
+<img src = "https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" align="center width = 600 height = 200>
 
 - 🔭 I’m currently working on **Loan Interest Prediction Application**
 
