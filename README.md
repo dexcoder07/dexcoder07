@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satwik Raj</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src = "https://www.pluralsight.com/https://www.pluralsight.com/">
+<img src = "https://c.tenor.com/Ho0ZextTZJEAAAAC/ai-digital.gif">
 
 - 🔭 I’m currently working on **Loan Interest Prediction Application**
 
