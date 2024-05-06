@@ -5,7 +5,7 @@
 
 <!-- - 🔭 I’m currently working on **Loan Interest Prediction Application** -->
 
-- 🌱 I’m currently learning **Full Stack Development, and Problem Solving**
+- 🌱 I’m currently learning **DevOps and MERN Stack, and Problem Solving**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, C++, DSA**
 
