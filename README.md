@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, C++, DSA**
 
-- 📫 How to reach me **satwikraj2@gmail.com**
+- 📫 How to reach me **satwikraj07@outlook.com**
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1BtbE9ZiWVGmK0poFB66N9HZmLOFEa2tP/view?usp=sharing](https://drive.google.com/file/d/1RMa1YgDhwsAoU0xJWySvy6kXjqjXzWS4/view?usp=sharing) -->
 
