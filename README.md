@@ -20,6 +20,55 @@
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" />
   </a>
+
+    <!-- Azure -->
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" />
+  </a>
+  <!-- Jenkins -->
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" />
+  </a>
+  <!-- SonarQube -->
+  <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" alt="SonarQube" width="40" height="40" />
+  </a>
+  <!-- JFrog -->
+  <a href="https://jfrog.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" alt="JFrog" width="40" height="40" />
+  </a>
+  <!-- Liquibase -->
+  <a href="https://www.liquibase.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/liquibase/liquibase-icon.svg" alt="Liquibase" width="40" height="40" />
+  </a>
+  <!-- Ansible -->
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40" />
+  </a>
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" />
+  </a>
+  <!-- Bash -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png" alt="Bash" width="40" height="40" />
+  </a>
+  <!-- Kubernetes -->
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
+  </a>
+<!-- Terraform -->
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40" />
+  </a>
+  <!-- ARM Templates 
+  <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="ARM Templates" width="40" height="40" />
+  </a>
+  CloudFormation
+  <a href="https://aws.amazon.com/cloudformation/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="CloudFormation" width="40" height="40" />
+  </a> -->
 </p>
 
 
