@@ -29,17 +29,9 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" />
   </a>
-  <!-- SonarQube -->
-  <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/SonarQube_logo.png" alt="SonarQube" width="40" height="40" />
-  </a>
   <!-- JFrog -->
   <a href="https://jfrog.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-icon.svg" alt="JFrog" width="40" height="40" />
-  </a>
-  <!-- Liquibase -->
-  <a href="https://www.liquibase.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.liquibase.com/sites/all/themes/liquibase/favicon.ico" alt="Liquibase" width="40" height="40" />
   </a>
   <!-- Ansible -->
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
