@@ -72,14 +72,6 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"height="40"/> 
     </a> 
-      <!-- Groovy -->
-  <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="Groovy" width="40" height="40" />
-  </a>
-  <!-- YAML -->
-  <a href="https://yaml.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/YAML_Logo.svg" alt="YAML" width="40" height="40" />
-  </a>
 /p>
 
 
