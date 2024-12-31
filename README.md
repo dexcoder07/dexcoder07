@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Satwik Raj</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Engineer</h3>
 
 <img src = "https://racitidesigns.files.wordpress.com/2017/11/2.gif?w=1440&h=511&crop=1&zoom=2">
 
 <!-- - 🔭 I’m currently working on **Loan Interest Prediction Application** -->
 
-- 🌱 I’m currently learning **DevOps and MERN Stack, and Problem Solving**
+- 🌱 I’m currently working as **DevOps Engineer**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, C++, DSA**
+- 💬 Ask me about ** MERN Stack & DevOps**
 
-- 📫 How to reach me **satwikraj07@outlook.com**
+- 📫 How to reach me **satwikraj2@gmail.com**
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1BtbE9ZiWVGmK0poFB66N9HZmLOFEa2tP/view?usp=sharing](https://drive.google.com/file/d/1RMa1YgDhwsAoU0xJWySvy6kXjqjXzWS4/view?usp=sharing) -->
 
